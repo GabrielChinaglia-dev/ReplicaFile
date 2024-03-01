@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "W+M1XWnPUs5KXdHY2rs40V402EeGrX+Iu03dfOQZZ10lWpLKvRoXaVOXcQMRSOz3pUi2m4pF5z8MO2TFdH7zdw==",
+  "success": true,
+  "projectFilePath": "E:\\VisualStudio\\VeeamTask\\VeeamTask\\VeeamTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gaxd_\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\gaxd_\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\gaxd_\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

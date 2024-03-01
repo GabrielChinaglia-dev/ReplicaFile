@@ -1,0 +1,14 @@
+E:\VisualStudio\VeeamTask\VeeamTask\bin\Debug\net8.0\VeeamTask.exe
+E:\VisualStudio\VeeamTask\VeeamTask\bin\Debug\net8.0\VeeamTask.deps.json
+E:\VisualStudio\VeeamTask\VeeamTask\bin\Debug\net8.0\VeeamTask.runtimeconfig.json
+E:\VisualStudio\VeeamTask\VeeamTask\bin\Debug\net8.0\VeeamTask.dll
+E:\VisualStudio\VeeamTask\VeeamTask\bin\Debug\net8.0\VeeamTask.pdb
+E:\VisualStudio\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.GeneratedMSBuildEditorConfig.editorconfig
+E:\VisualStudio\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.AssemblyInfoInputs.cache
+E:\VisualStudio\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.AssemblyInfo.cs
+E:\VisualStudio\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.csproj.CoreCompileInputs.cache
+E:\VisualStudio\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.dll
+E:\VisualStudio\VeeamTask\VeeamTask\obj\Debug\net8.0\refint\VeeamTask.dll
+E:\VisualStudio\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.pdb
+E:\VisualStudio\VeeamTask\VeeamTask\obj\Debug\net8.0\VeeamTask.genruntimeconfig.cache
+E:\VisualStudio\VeeamTask\VeeamTask\obj\Debug\net8.0\ref\VeeamTask.dll

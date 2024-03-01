@@ -1,0 +1,52 @@
+[02/28/2024 22:43:55] Synchronization started.
+[02/28/2024 22:43:55] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:43:55] Synchronization complete.
+[02/28/2024 22:43:55] Synchronization started.
+[02/28/2024 22:43:55] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:43:55] Synchronization complete.
+[02/28/2024 22:44:12] Synchronization started.
+[02/28/2024 22:44:12] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:44:12] Synchronization complete.
+[02/28/2024 22:44:12] Synchronization started.
+[02/28/2024 22:44:12] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:44:12] Synchronization complete.
+[02/28/2024 22:44:40] Synchronization started.
+[02/28/2024 22:44:40] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:44:40] Synchronization complete.
+[02/28/2024 22:44:40] Synchronization started.
+[02/28/2024 22:44:40] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:44:40] Synchronization complete.
+[02/28/2024 22:45:40] Synchronization started.
+[02/28/2024 22:45:40] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:45:40] Synchronization complete.
+[02/28/2024 22:46:40] Synchronization started.
+[02/28/2024 22:46:40] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:46:40] Synchronization complete.
+[02/28/2024 22:47:40] Synchronization started.
+[02/28/2024 22:47:40] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:47:40] Synchronization complete.
+[02/28/2024 22:48:40] Synchronization started.
+[02/28/2024 22:48:40] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:48:40] Synchronization complete.
+[02/28/2024 22:50:00] Synchronization started.
+[02/28/2024 22:50:00] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:50:00] Synchronization complete.
+[02/28/2024 22:50:00] Synchronization started.
+[02/28/2024 22:50:00] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:50:00] Synchronization complete.
+[02/28/2024 22:51:16] Synchronization started.
+[02/28/2024 22:51:16] Copied file: E:\Teste\adfsfgfc.docx to E:\TesteReplica\adfsfgfc.docx
+[02/28/2024 22:51:16] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:51:16] Synchronization complete.
+[02/28/2024 22:51:16] Synchronization started.
+[02/28/2024 22:51:16] Copied file: E:\Teste\adfsfgfc.docx to E:\TesteReplica\adfsfgfc.docx
+[02/28/2024 22:51:16] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:51:16] Synchronization complete.
+[02/28/2024 22:52:17] Synchronization started.
+[02/28/2024 22:52:17] Copied file: E:\Teste\adfsfgfc.docx to E:\TesteReplica\adfsfgfc.docx
+[02/28/2024 22:52:17] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:52:17] Synchronization complete.
+[02/28/2024 22:53:17] Synchronization started.
+[02/28/2024 22:53:17] Copied file: E:\Teste\adfsfgfc.docx to E:\TesteReplica\adfsfgfc.docx
+[02/28/2024 22:53:17] Copied file: E:\Teste\Teste.docx to E:\TesteReplica\Teste.docx
+[02/28/2024 22:53:17] Synchronization complete.

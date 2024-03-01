@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VeeamTask": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\Teste\r\nE:\\TesteReplica\r\n60"
+    }
+  }
+}
